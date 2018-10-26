@@ -1,3 +1,5 @@
+#include <machin.h>
+
 int main()
 {
 	...
